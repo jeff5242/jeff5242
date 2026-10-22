@@ -48,11 +48,20 @@
 ### 數字
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeff5242&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&locale=cn&theme=default" alt="GitHub 統計" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff5242&layout=compact&hide_border=true&langs_count=8" alt="常用語言" height="165">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jeff5242&show_icons=true&count_private=true&hide_border=true&locale=cn&theme=github_dark&bg_color=00000000">
+    <img src="https://github-readme-stats.vercel.app/api?username=jeff5242&show_icons=true&count_private=true&hide_border=true&locale=cn" alt="GitHub 統計" height="165">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff5242&layout=compact&hide_border=true&langs_count=8&theme=github_dark&bg_color=00000000">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff5242&layout=compact&hide_border=true&langs_count=8" alt="常用語言" height="165">
+  </picture>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jeff5242&hide_border=true&locale=zh_Hant" alt="連續貢獻" height="165">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jeff5242&hide_border=true&locale=zh_Hant&theme=github-dark-blue&background=00000000">
+    <img src="https://streak-stats.demolab.com?user=jeff5242&hide_border=true&locale=zh_Hant" alt="連續貢獻" height="165">
+  </picture>
 </p>
 
 > 本地 Git 總計 7,900+ commits、80+ repos（2011 起）；GitHub 上只看得到推上來的部分。
