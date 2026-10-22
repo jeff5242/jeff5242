@@ -41,16 +41,16 @@
 | 2026 | 都市更新審查自動化 POC | 計畫書依法規逐條審查，審查意見自動生成 |
 | 2026 | WFH 出勤管理 × AI 關懷訊息 | 混合辦公打卡、異常提醒、每日 AI 關懷推播 |
 | 2024 | 傳統製造業 AI 轉型（精誠資訊） | AI 產線數位轉型、CDU 散熱監管 |
-| 2021– | Nuwa AI 家教 SaaS | 第一個 LLM 產品，口說評量與個人化教學 |
 | 2023 | YAMAHA 山葉機車 CRM App | 會員、保養提醒與門市整合 |
+| 2021– | Nuwa AI 家教 SaaS | 第一個 LLM 產品，口說評量與個人化教學 |
 | 2018 | 玉山證券數位開戶、第一銀行福利網 | 金融系統交付 |
 
 ### 數字
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jeff5242&show_icons=true&count_private=true&hide_border=true&locale=zh-tw&theme=github_dark&bg_color=00000000">
-    <img src="https://github-readme-stats.vercel.app/api?username=jeff5242&show_icons=true&count_private=true&hide_border=true&locale=zh-tw" alt="GitHub 統計" height="165">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jeff5242&show_icons=true&count_private=true&hide_border=true&hide_rank=true&locale=zh-tw&theme=github_dark&bg_color=00000000">
+    <img src="https://github-readme-stats.vercel.app/api?username=jeff5242&show_icons=true&count_private=true&hide_border=true&hide_rank=true&locale=zh-tw" alt="GitHub 統計" height="165">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff5242&layout=compact&hide_border=true&langs_count=8&locale=zh-tw&custom_title=%E6%9C%80%E5%B8%B8%E4%BD%BF%E7%94%A8%E7%9A%84%E8%AA%9E%E8%A8%80&theme=github_dark&bg_color=00000000">
