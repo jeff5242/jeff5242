@@ -49,12 +49,12 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jeff5242&show_icons=true&count_private=true&hide_border=true&locale=cn&theme=github_dark&bg_color=00000000">
-    <img src="https://github-readme-stats.vercel.app/api?username=jeff5242&show_icons=true&count_private=true&hide_border=true&locale=cn" alt="GitHub 統計" height="165">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jeff5242&show_icons=true&count_private=true&hide_border=true&locale=zh-tw&theme=github_dark&bg_color=00000000">
+    <img src="https://github-readme-stats.vercel.app/api?username=jeff5242&show_icons=true&count_private=true&hide_border=true&locale=zh-tw" alt="GitHub 統計" height="165">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff5242&layout=compact&hide_border=true&langs_count=8&theme=github_dark&bg_color=00000000">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff5242&layout=compact&hide_border=true&langs_count=8" alt="常用語言" height="165">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff5242&layout=compact&hide_border=true&langs_count=8&locale=zh-tw&theme=github_dark&bg_color=00000000">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff5242&layout=compact&hide_border=true&langs_count=8&locale=zh-tw" alt="常用語言" height="165">
   </picture>
 </p>
 <p align="center">
